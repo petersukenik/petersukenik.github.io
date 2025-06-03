@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://ista.ac.at/en/home/'>Institute of Science and Technology Austria (ISTA)</a>
 
 profile:
   align: right
