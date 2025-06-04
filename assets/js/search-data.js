@@ -77,16 +77,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-iclr-oral-with-arthur-jacot-zihan-wang-and-marco-mondelli-on-end-to-end-emergence-of-neural-collapse-in-regularized-mlps",
+          title: 'ICLR oral with Arthur Jacot, Zihan Wang and Marco Mondelli on end-to-end emergence...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-new-preprint-on-end-to-end-optimality-of-neural-collapse-in-regularized-resnets-and-transformers",
+          title: 'New preprint on end-to-end optimality of neural collapse in regularized ResNets and transformers....',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-will-join-g-research-as-a-summer-ml-research-intern",
+          title: 'Will join G-research as a summer ML research intern.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
