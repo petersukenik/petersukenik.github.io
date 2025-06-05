@@ -1,27 +1,4 @@
 {
-  "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
-  },
   "work": [
     {
       "name": "Institute for Advanced Study, Princeton University",
@@ -80,9 +57,39 @@
       "summary": "2 of cca 40 finished"
     },
     {
-      "title": "NeurIPS best reviewer award",
-      "date": "2023",
-      "summary": "Top 10% reviewers"
+      "title": "Vojtech Jarník IMC",
+      "date": "2019",
+      "summary": "11th place + medal"
+    },
+    {
+      "title": "Vojtech Jarník IMC",
+      "date": "2017",
+      "summary": "medal"
+    },
+    {
+      "title": "International Mathematical Competition (IMC)",
+      "date": "2017-2019",
+      "summary": "3x bronze medal"
+    },
+    {
+      "title": "International Mathematical Competition (IMC)",
+      "date": "2019",
+      "summary": "Ivan the confessor's fair play prize - for students pointing out their own overrated solutions to the jury."
+    },
+    {
+      "title": "International Mathematical Olympiad (IMO)",
+      "date": "2016",
+      "summary": "Bronze medal, 224th place"
+    },
+    {
+      "title": "International Mathematical Competition (IMC)",
+      "date": "2016",
+      "summary": "2nd place and special award for best experiment"
+    },
+    {
+      "title": "European Union Science Olympiad (EUSO)",
+      "date": "2014",
+      "summary": "Gold medal, 8th place, team competition"
     }
   ],
   "languages": [
