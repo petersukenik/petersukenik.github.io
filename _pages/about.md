@@ -35,7 +35,7 @@ During my PhD I have worked extensively on the [neural collapse](https://www.pna
 Before joining ISTA, I studied master's in mathematics at Technical University Munich ([TUM](https://www.tum.de/en/?r=1)), focusing strongly on ML and prob-stats topics with a bit of a financial flavor. Even before, I did my 
 bachelor's degree in financial and economic mathematics at Comenius University Bratislava ([UK](https://uniba.sk/en/)). Way before that, I was born in the beautiful town of Žilina, Slovakia.
 
-Besides research, I like to do many things, in particular sports and game design. My most favorite sports are competitive math and running, but I also enjoy gym, ultimate frisbee, cycling, dancing, climbing, hiking, floorball, and many others. In competitive math, I successfully [represented](https://www.imo-official.org/participant_r.aspx?id=26652) Slovakia on [IMO](https://www.imo-official.org/),
+Besides research, I have many interests, in particular sports and game design. My most favorite sports are competitive math and running, but I also enjoy gym, ultimate frisbee, cycling, dancing, climbing, hiking, floorball, and many others. In competitive math, I successfully [represented](https://www.imo-official.org/participant_r.aspx?id=26652) Slovakia on [IMO](https://www.imo-official.org/),
 but also myself on many other events. Currently, I serve as an organizer of the Slovakian math olympiad and math camps and for many years I organized another math [competition](https://kms.sk/). My PB's in the running are: 
 
 - 5K: 18:43
