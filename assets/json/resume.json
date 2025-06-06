@@ -74,8 +74,7 @@
     },
     {
       "title": "BAYHOST scholarship holder",
-      "startDate": "2019",
-      "endDate": "2021",
+      "date": "2019-2021",
       "summary": "over 20000 EUR in total"
     },
     {
@@ -84,25 +83,34 @@
       "summary": "2 of cca 40 finished"
     },
     {
+      "title": "International Mathematical Competition (IMC)",
+      "date": "2019",
+      "summary": "Ivan the confessor's fair play prize - for students pointing out their own overrated solutions to the jury."
+    },
+    {
       "title": "Vojtech Jarník IMC",
       "date": "2019",
       "summary": "11th place + medal"
     },
     {
-      "title": "Vojtech Jarník IMC",
-      "date": "2017",
-      "summary": "medal"
-    },
-    {
       "title": "International Mathematical Competition (IMC)",
-      "startDate": "2017",
-      "endDate": "2019",
+      "date": "2019",
       "summary": "3x bronze medal"
     },
     {
       "title": "International Mathematical Competition (IMC)",
-      "date": "2019",
-      "summary": "Ivan the confessor's fair play prize - for students pointing out their own overrated solutions to the jury."
+      "date": "2018",
+      "summary": "3x bronze medal"
+    },
+    {
+      "title": "International Mathematical Competition (IMC)",
+      "date": "2017",
+      "summary": "3x bronze medal"
+    },
+    {
+      "title": "Vojtech Jarník IMC",
+      "date": "2017",
+      "summary": "medal"
     },
     {
       "title": "International Mathematical Olympiad (IMO)",
