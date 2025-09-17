@@ -41,8 +41,8 @@ ninja.data = [{
           section: "News",},{id: "news-new-preprint-on-end-to-end-optimality-of-neural-collapse-in-regularized-resnets-and-transformers",
           title: 'New preprint on end-to-end optimality of neural collapse in regularized ResNets and transformers....',
           description: "",
-          section: "News",},{id: "news-will-join-g-research-as-a-summer-ml-research-intern",
-          title: 'Will join G-research as a summer ML research intern.',
+          section: "News",},{id: "news-worked-for-g-research-as-a-summer-ml-research-intern",
+          title: 'Worked for G-research as a summer ML research intern.',
           description: "",
           section: "News",},{
       id: 'light-theme',
