@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Will join [G-research](https://www.gresearch.com/) as a summer ML research intern. 
+Worked for [G-research](https://www.gresearch.com/) as a summer ML research intern. 
