@@ -38,7 +38,7 @@ bachelor's degree in financial and economic mathematics at Comenius University B
 Besides research, I have many interests, in particular sports and game design. My most favorite sports are competitive math and running, but I also enjoy gym, ultimate frisbee, cycling, dancing, climbing, hiking, floorball, and many others. In competitive math, I successfully [represented](https://www.imo-official.org/participant_r.aspx?id=26652) Slovakia on [IMO](https://www.imo-official.org/),
 but also myself on many other events. Currently, I serve as an organizer of the Slovakian math olympiad and math camps and for many years I organized another math [competition](https://kms.sk/). My PB's in the running are: 
 
-- 5K: 18:43
+- 5K: 18:20 (new!)
 - 10K: 38:34
 - Half-marathon: 1:21:56
 - Marathon: TBD!
